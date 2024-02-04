@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/restaurant-app/static/css/main.11c9220e.css",
+    "main.js": "/restaurant-app/static/js/main.eb476ccc.js",
+    "static/media/secondayBG.gif": "/restaurant-app/static/media/secondayBG.494212487ca77f63180b.gif",
+    "static/media/landing__section__img.jpg": "/restaurant-app/static/media/landing__section__img.787ba47f8b82ee2de7a8.jpg",
+    "index.html": "/restaurant-app/index.html",
+    "main.11c9220e.css.map": "/restaurant-app/static/css/main.11c9220e.css.map",
+    "main.eb476ccc.js.map": "/restaurant-app/static/js/main.eb476ccc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11c9220e.css",
+    "static/js/main.eb476ccc.js"
+  ]
+}
